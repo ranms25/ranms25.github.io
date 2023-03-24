@@ -16,4 +16,4 @@ I am currently taking the course [Open Source Development Course](https://osdc.c
 My [blog](https://dev.to/ranms25) will keep you updated on our progress. Follow the progress on GitHub as well and dont forget our [website](https://osdc.code-maven.com/osdc-2023-03-azrieli/)
 
 ## My CV
-[cv]()
+CV
