@@ -7,6 +7,7 @@ I am a student on a Cloud Engineering Development team, I am involved in configu
 ## Important links to follow :)
 
 [My GitHub page](https://github.com/ranms25)
+
 [My dev page](https://dev.to/ranms25)
 
 ## OSDC course related links:
@@ -16,4 +17,4 @@ I am currently taking the course [Open Source Development Course](https://osdc.c
 My [blog](https://dev.to/ranms25) will keep you updated on our progress. Follow the progress on GitHub as well and dont forget our [website](https://osdc.code-maven.com/osdc-2023-03-azrieli/)
 
 ## My CV
-CV
+[CV](https://ranms25.github.io/CV)
