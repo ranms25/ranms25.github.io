@@ -1,5 +1,5 @@
 # RAN MOSHE
-# EXPERIENCE
+## EXPERIENCE
 **Data Analyst – Outstanding Final Engineering Project**
 Azrieli College of Engineering Jerusalem
 10/2021 - 07/2022
@@ -37,13 +37,13 @@ Operating several different and variedinterfaces.
 IAF
 10/2013 - 10/2016
 Field Security Coordinator
-# SUMMARY 
+## SUMMARY 
 M.Sc. student in Software Engineering. 
 Knowledge of Python, C, JAVA, Linux, 
 AWS, SQL, R, Power BI, and Excel. Self driven with the ability to quickly master 
 modern technology. Strong collaborator
 with excellent communication.
-# EDUCATION
+## EDUCATION
 **M.Sc. Student - Software Engineering**
 Azrieli College of Engineering Jerusalem
 10/2022 - Present
@@ -61,11 +61,11 @@ ORT Harmatz College Givat Ram
 Excellence in Robotics, extended subjects were: 
 Computers and Electronics (5 units), Physics (5 
 units), Project (5 units).
-# SKILLS
+## SKILLS
 Python C JAVA Linux AWS SQL R
 Power BI Excel HTML JS
 CSS 
-# LANGUAGES
+## LANGUAGES
 English
 Proficient
 Hebrew
